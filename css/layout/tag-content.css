@@ -253,12 +253,12 @@
 .tag-container .tag-name i {
   color: var(--second-text-color);
 }
-@media (max-width: 768px) {
+@media (max-width: 780px) {
   .tag-container .tag-name {
     font-size: 2.7rem;
   }
 }
-@media (max-width: 640px) {
+@media (max-width: 500px) {
   .tag-container .tag-name {
     font-size: 2.4rem;
   }
